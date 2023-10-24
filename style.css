@@ -1,0 +1,8 @@
+.desctiption {
+	display: none;
+	transition: all 0.2s ease;
+}
+.desctiption.active {
+	display: block;
+	transition: all 0.2s ease;
+}
